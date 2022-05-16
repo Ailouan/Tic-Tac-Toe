@@ -1,0 +1,26 @@
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\bin\Debug\TicTacToeAdessoSE.exe.config
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\bin\Debug\TicTacToeAdessoSE.exe
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\bin\Debug\TicTacToeAdessoSE.pdb
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\bin\Debug\Guna.UI2.dll
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.csproj.AssemblyReference.cache
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.FrmMain.resources
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.Properties.Resources.resources
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.csproj.GenerateResource.cache
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.csproj.CoreCompileInputs.cache
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.csproj.CopyComplete
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.exe
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.pdb
+C:\Users\Espoir\source\repos\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.FrmToPlay.resources
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\bin\Debug\Guna.UI2.dll
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.csproj.AssemblyReference.cache
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.FrmMain.resources
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.FrmToPlay.resources
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.Properties.Resources.resources
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.csproj.GenerateResource.cache
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.csproj.CoreCompileInputs.cache
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToeAdessoSE.csproj.CopyComplete
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\bin\Debug\TicTacToe AdessoSE.exe.config
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\bin\Debug\TicTacToe AdessoSE.exe
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\bin\Debug\TicTacToe AdessoSE.pdb
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToe AdessoSE.exe
+C:\Users\Espoir\Desktop\XO\vrai\TicTacToeAdessoSE\TicTacToeAdessoSE\obj\Debug\TicTacToe AdessoSE.pdb
